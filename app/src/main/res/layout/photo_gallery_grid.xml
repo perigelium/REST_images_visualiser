@@ -1,0 +1,15 @@
+ <GridView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/gvPhotoGallery"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:layout_margin="@dimen/image_padding"
+        android:clickable="true"
+        android:columnWidth="175dp"
+        android:background="@color/colorGrayF0"
+        android:drawSelectorOnTop="true"
+        android:focusable="true"
+        android:gravity="center"
+        android:numColumns="@integer/column_count"
+        android:stretchMode="spacingWidthUniform"/>

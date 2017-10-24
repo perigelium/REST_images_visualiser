@@ -1,0 +1,7 @@
+<ImageView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/grid_cell_image"
+        android:layout_width="175dp"
+        android:layout_height="175dp"
+        android:background="@color/colorGrayF0"
+        android:padding="@dimen/image_padding"/>

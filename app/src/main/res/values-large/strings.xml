@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">REST Images</string>
+    <string name="msg_CheckInternetConnection">Check internet connection</string>
+    <string name="msg_ServerAnswerNotReceived">Server answer not received</string>
+    <string name="msg_ServerError">Server error</string>
+    <string name="msg_ListIsEmpty">Nothing to display, received list is empty</string>
+</resources>
